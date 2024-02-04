@@ -17,6 +17,4 @@ Paste the CSV format data you obtained from the Semrush platform into the semrus
 
 Run the Program
 
-Execute the following command to run the program:
-```bash
 python trendy.py
