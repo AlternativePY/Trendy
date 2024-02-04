@@ -13,7 +13,7 @@ logging.basicConfig(filename='error.log', level=logging.ERROR, format='%(asctime
 # Set default values for parameters
 months = 6
 trend = 75
-remove_keywords = ["kelime 1", "kelime-2", "kelime3"]
+remove_keywords = ["kelime-1", "kelime-2", "kelime3"]
 
 # Function to remove data based on specified keywords
 def remove_data(keywords_to_remove):
