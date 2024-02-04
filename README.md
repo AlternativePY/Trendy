@@ -16,5 +16,6 @@ pip install -r requirements.txt
 Paste the CSV format data you obtained from the Semrush platform into the semrush.csv file.
 
 Run the Program
+Execute the following command to run the program:
 
 python trendy.py
